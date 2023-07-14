@@ -1,0 +1,15 @@
+E:\DotNetCourse\Practice\CSharp\BasicCalculator\bin\Debug\net6.0\BasicCalculator.exe
+E:\DotNetCourse\Practice\CSharp\BasicCalculator\bin\Debug\net6.0\BasicCalculator.deps.json
+E:\DotNetCourse\Practice\CSharp\BasicCalculator\bin\Debug\net6.0\BasicCalculator.runtimeconfig.json
+E:\DotNetCourse\Practice\CSharp\BasicCalculator\bin\Debug\net6.0\BasicCalculator.dll
+E:\DotNetCourse\Practice\CSharp\BasicCalculator\bin\Debug\net6.0\BasicCalculator.pdb
+E:\DotNetCourse\Practice\CSharp\BasicCalculator\obj\Debug\net6.0\BasicCalculator.csproj.AssemblyReference.cache
+E:\DotNetCourse\Practice\CSharp\BasicCalculator\obj\Debug\net6.0\BasicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetCourse\Practice\CSharp\BasicCalculator\obj\Debug\net6.0\BasicCalculator.AssemblyInfoInputs.cache
+E:\DotNetCourse\Practice\CSharp\BasicCalculator\obj\Debug\net6.0\BasicCalculator.AssemblyInfo.cs
+E:\DotNetCourse\Practice\CSharp\BasicCalculator\obj\Debug\net6.0\BasicCalculator.csproj.CoreCompileInputs.cache
+E:\DotNetCourse\Practice\CSharp\BasicCalculator\obj\Debug\net6.0\BasicCalculator.dll
+E:\DotNetCourse\Practice\CSharp\BasicCalculator\obj\Debug\net6.0\refint\BasicCalculator.dll
+E:\DotNetCourse\Practice\CSharp\BasicCalculator\obj\Debug\net6.0\BasicCalculator.pdb
+E:\DotNetCourse\Practice\CSharp\BasicCalculator\obj\Debug\net6.0\BasicCalculator.genruntimeconfig.cache
+E:\DotNetCourse\Practice\CSharp\BasicCalculator\obj\Debug\net6.0\ref\BasicCalculator.dll

@@ -1,0 +1,15 @@
+E:\DotNetCourse\Practice\CSharp\CheckFactorial\bin\Debug\net6.0\CheckFactorial.exe
+E:\DotNetCourse\Practice\CSharp\CheckFactorial\bin\Debug\net6.0\CheckFactorial.deps.json
+E:\DotNetCourse\Practice\CSharp\CheckFactorial\bin\Debug\net6.0\CheckFactorial.runtimeconfig.json
+E:\DotNetCourse\Practice\CSharp\CheckFactorial\bin\Debug\net6.0\CheckFactorial.dll
+E:\DotNetCourse\Practice\CSharp\CheckFactorial\bin\Debug\net6.0\CheckFactorial.pdb
+E:\DotNetCourse\Practice\CSharp\CheckFactorial\obj\Debug\net6.0\CheckFactorial.csproj.AssemblyReference.cache
+E:\DotNetCourse\Practice\CSharp\CheckFactorial\obj\Debug\net6.0\CheckFactorial.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetCourse\Practice\CSharp\CheckFactorial\obj\Debug\net6.0\CheckFactorial.AssemblyInfoInputs.cache
+E:\DotNetCourse\Practice\CSharp\CheckFactorial\obj\Debug\net6.0\CheckFactorial.AssemblyInfo.cs
+E:\DotNetCourse\Practice\CSharp\CheckFactorial\obj\Debug\net6.0\CheckFactorial.csproj.CoreCompileInputs.cache
+E:\DotNetCourse\Practice\CSharp\CheckFactorial\obj\Debug\net6.0\CheckFactorial.dll
+E:\DotNetCourse\Practice\CSharp\CheckFactorial\obj\Debug\net6.0\refint\CheckFactorial.dll
+E:\DotNetCourse\Practice\CSharp\CheckFactorial\obj\Debug\net6.0\CheckFactorial.pdb
+E:\DotNetCourse\Practice\CSharp\CheckFactorial\obj\Debug\net6.0\CheckFactorial.genruntimeconfig.cache
+E:\DotNetCourse\Practice\CSharp\CheckFactorial\obj\Debug\net6.0\ref\CheckFactorial.dll

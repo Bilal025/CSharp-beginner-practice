@@ -1,0 +1,15 @@
+E:\DotNetCourse\Practice\CSharp\GroceryShopBilling\obj\Debug\net6.0\GroceryShopBilling.csproj.AssemblyReference.cache
+E:\DotNetCourse\Practice\CSharp\GroceryShopBilling\obj\Debug\net6.0\GroceryShopBilling.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetCourse\Practice\CSharp\GroceryShopBilling\obj\Debug\net6.0\GroceryShopBilling.AssemblyInfoInputs.cache
+E:\DotNetCourse\Practice\CSharp\GroceryShopBilling\obj\Debug\net6.0\GroceryShopBilling.AssemblyInfo.cs
+E:\DotNetCourse\Practice\CSharp\GroceryShopBilling\obj\Debug\net6.0\GroceryShopBilling.csproj.CoreCompileInputs.cache
+E:\DotNetCourse\Practice\CSharp\GroceryShopBilling\bin\Debug\net6.0\GroceryShopBilling.exe
+E:\DotNetCourse\Practice\CSharp\GroceryShopBilling\bin\Debug\net6.0\GroceryShopBilling.deps.json
+E:\DotNetCourse\Practice\CSharp\GroceryShopBilling\bin\Debug\net6.0\GroceryShopBilling.runtimeconfig.json
+E:\DotNetCourse\Practice\CSharp\GroceryShopBilling\bin\Debug\net6.0\GroceryShopBilling.dll
+E:\DotNetCourse\Practice\CSharp\GroceryShopBilling\bin\Debug\net6.0\GroceryShopBilling.pdb
+E:\DotNetCourse\Practice\CSharp\GroceryShopBilling\obj\Debug\net6.0\GroceryShopBilling.dll
+E:\DotNetCourse\Practice\CSharp\GroceryShopBilling\obj\Debug\net6.0\refint\GroceryShopBilling.dll
+E:\DotNetCourse\Practice\CSharp\GroceryShopBilling\obj\Debug\net6.0\GroceryShopBilling.pdb
+E:\DotNetCourse\Practice\CSharp\GroceryShopBilling\obj\Debug\net6.0\GroceryShopBilling.genruntimeconfig.cache
+E:\DotNetCourse\Practice\CSharp\GroceryShopBilling\obj\Debug\net6.0\ref\GroceryShopBilling.dll
